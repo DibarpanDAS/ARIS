@@ -1,0 +1,8 @@
+{
+  "name": "Gemini OS Assistant",
+  "description": "A futuristic, voice-activated AI assistant capable of real-time audio/video interaction, web search, and simulated system control.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
